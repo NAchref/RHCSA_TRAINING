@@ -36,3 +36,15 @@ Correct Answer :
 #passwd user2 redhat
 #passwd user3 redhat
 
+
+Question : 
+
+Copy /etc/fstab to var/tmp name admin, the user1 could read,
+write and modify it while user2 without any permission.
+
+Correct Answer : 
+
+#cp /etc/fstab /var/tmp/
+#chgrp admin /var/tmp/fstab
+#setfacl -m u:user1:rwx /var/tmp/fstab
+#setfal -m u:user2:--- /var/tmp/fstab
