@@ -19,6 +19,8 @@ Question :
 Create a backup file named /root/backup.tar.bz2, 
 Contains content of /usr/local, tar must use bzip2 to compress ?
 
+Correct Answer :
+
 cd /usr/local
 tar ""jcvf
 /root/backup.tar.bz2
