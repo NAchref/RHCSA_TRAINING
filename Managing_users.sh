@@ -22,3 +22,11 @@ Suppose you want to give administrative rights to this newly created user. In th
 To add the user to the wheel group, type the command given below:
 
 $ sudo usermod -aG wheel john
+
+Now, if you want to delete any user from the CentOS 8 Operating system due to any reason, either that user is unnecessary or not needed anymore.
+For example, if we want to delete the user “john”, we can delete such a user using the “userdel” command:
+
+$ sudo userdel -r john
+
+The “-r” flag in the above-given command is for deleting the user’s home directory. 
+If you do not want to delete the user’s home directory, you can run the above command without the “-r” flag.
