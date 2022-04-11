@@ -17,3 +17,13 @@ How Do I Create A Bash File In Linux?
 - Code is a good way to do that.
 - File this script under named.sh with the file as its default name.
 - You can execute a script on an unzipped subfolder by typing fpose bash filename.sh.
+
+
+The Red Hat exams are some of the toughest in the business, and this repos will be an essential tool in helping you prepare to take the Red Hat Certified System Administrator (RHCSA) exam.
+
+![image](https://user-images.githubusercontent.com/64566472/162751725-b571cc3a-89e0-4456-984a-f3c4f645b356.png)
+
+
+The RHCSA exam was recently updated for Red Hat Enterprise Linux 8. This book 
+contains all you need to know to pass the RHCSA exam. As you will see, this Cert 
+Guide covers every objective in the exam
