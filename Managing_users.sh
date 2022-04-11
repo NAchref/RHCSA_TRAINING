@@ -13,3 +13,12 @@ New password : []
 
 After running the above command, it will prompt for the password, so provide the password twice,
 and the password will be set for the newly created user.
+
+
+Granting Sudo privileges to the User
+Suppose you want to give administrative rights to this newly created user. In that case, you have to add the user in the wheel group 
+(the group which grants sudo privileges to all of its users automatically).
+
+To add the user to the wheel group, type the command given below:
+
+$ sudo usermod -aG wheel john
