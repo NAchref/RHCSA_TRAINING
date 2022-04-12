@@ -56,3 +56,35 @@ a. Time & Date
 b. Keyboard
 c. Language Support
 d. Troubleshoot an Existing Installation
+
+
+
+8. After setting the root password that you want to use, you cannot proceed in
+the installation. What is the most likely reason?
+
+a. The password is unsecure, and unsecure passwords are not accepted.
+b. The password does not meet requirements in the password policy.
+c. You also need to create a user.
+d. If an unsecure password is used, you need to click Done twice.
+
+
+
+9. Which statement about the system language is not true?
+
+a. You can change the system language from the Installation Summary
+screen.
+b. You can change the system language directly after booting from the
+installation media.
+c. When setting the installation language, you can also select a keyboard
+layout.
+d. After installation, you cannot change the language settings.
+
+
+10. When installing a server that uses LVM logical volumes, you’ll get at least
+three storage volumes (partitions or LVM). Which of the following is not
+part of them?
+
+a. /boot
+b. /var
+c. /
+d. swap
