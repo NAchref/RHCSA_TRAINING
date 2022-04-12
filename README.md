@@ -19,7 +19,7 @@ How Do I Create A Bash File In Linux?
 - You can execute a script on an unzipped subfolder by typing fpose bash filename.sh.
 
 
-The Red Hat exams are some of the toughest in the business, and this repos will be an essential tool in helping you prepare to take the Red Hat Certified System Administrator (RHCSA) exam.
+The Red Hat exams are some of the toughest in the business, and this repositories will be an essential tool in helping you prepare to take the Red Hat Certified System Administrator (RHCSA) exam.
 
 ![image](https://user-images.githubusercontent.com/64566472/162751725-b571cc3a-89e0-4456-984a-f3c4f645b356.png)
 
@@ -27,3 +27,17 @@ The Red Hat exams are some of the toughest in the business, and this repos will 
 The RHCSA exam was recently updated for Red Hat Enterprise Linux 8. This book 
 contains all you need to know to pass the RHCSA exam. As you will see, this Cert 
 Guide covers every objective in the exam
+
+
+On the RHCSA exam, you do not need to install Red Hat Enterprise Linux.
+However, because you need to install an environment that allows you to test all 
+items discussed in this repositories, you start by installing Red Hat Enterprise Linux in this 
+chapter. This chapter describes all steps that you will encounter while performing 
+an installation of RHEL 8.
+
+Because Red Hat Enterprise Linux contains registered trademarks, I will use 
+CentOS to show you the installation. The only thing that is different in CentOS is 
+the branding, which in CentOS is free to use. All software in CentOS is the same as 
+the software in Red Hat Enterprise Linux. Because CentOS does not contain any 
+registered trademarks, it is a common and popular solution that enables people to 
+learn how to work with Red Hat Enterprise Linux. 
