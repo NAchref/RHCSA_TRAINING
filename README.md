@@ -54,3 +54,9 @@ bundled support and maintenance, which is the case for RHEL 8; free downloads
 of RHEL 8 are restricted. There is a 60-day evaluation version available, and 
 alternatively you can register for a free Red Hat developer subscription at 
 https://developers.redhat.com.
+
+
+Red Hat understands that not all potential customers are interested in these 
+enterprise features. That is why Red Hat is involved in two free alternatives also:
+ ■ CentOS 8
+ ■ Fedora
