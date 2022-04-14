@@ -41,3 +41,9 @@ the branding, which in CentOS is free to use. All software in CentOS is the same
 the software in Red Hat Enterprise Linux. Because CentOS does not contain any 
 registered trademarks, it is a common and popular solution that enables people to 
 learn how to work with Red Hat Enterprise Linux. 
+
+
+What Is Red Hat Enterprise Linux 8 Server?
+
+RHEL 8 is a Linux distribution. As you probably know, Linux is a free operating 
+system. That means that the source code of all programs is available for free.
