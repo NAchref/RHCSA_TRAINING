@@ -60,3 +60,21 @@ Red Hat understands that not all potential customers are interested in these
 enterprise features. That is why Red Hat is involved in two free alternatives also:
  ■ CentOS 8
  ■ Fedora
+ 
+ 
+Using CentOS
+ 
+CentOS is the Community Enterprise Operating System. CentOS started as a 
+recompiled version of RHEL, with all items that were not available for free removed 
+from the RHEL software. Basically, just the name was changed and the Red Hat 
+logo (which is proprietary) was removed from all the CentOS software packages. 
+The result, still available today as CentOS 8, is an operating system that offers the 
+same functionality as RHEL but is available for free (and without the enterprise 
+support services).
+
+
+it offers all that 
+RHEL has to offer, but you do not have to pay for it. You can download CentOS 8 
+from https://www.centos.org. Note that CentOS doesn’t always have the most 
+recent version of the RHEL software and may run behind the latest RHEL release 
+by between a couple of weeks and a couple of months. 
