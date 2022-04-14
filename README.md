@@ -47,3 +47,10 @@ What Is Red Hat Enterprise Linux 8 Server?
 
 RHEL 8 is a Linux distribution. As you probably know, Linux is a free operating 
 system. That means that the source code of all programs is available for free.
+
+
+However, some enterprise Linux distributions are sold as commercial products, with 
+bundled support and maintenance, which is the case for RHEL 8; free downloads 
+of RHEL 8 are restricted. There is a 60-day evaluation version available, and 
+alternatively you can register for a free Red Hat developer subscription at 
+https://developers.redhat.com.
