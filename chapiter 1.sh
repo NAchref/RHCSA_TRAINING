@@ -36,3 +36,10 @@ are met:
 1 GiB of RAM
 A 10-GiB hard disk
 A network card
+
+
+TIP! One GB is 1000 x 1000 x 1000 bytes.
+however, that dosn't correspond with how a computer works,
+which is why most computer software works wth KiB, MiB and GiB instead.
+In this, One GiB is 1024 x 1024 x 1024 bytes(which is 1.07 GB).
+
