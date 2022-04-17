@@ -39,7 +39,21 @@ A network card
 
 
 TIP! One GB is 1000 x 1000 x 1000 bytes.
-however, that dosn't correspond with how a computer works,
+however, that dosnt correspond with how a computer works,
 which is why most computer software works wth KiB, MiB and GiB instead.
 In this, One GiB is 1024 x 1024 x 1024 bytes(which is 1.07 GB).
 
+
+The preceding requirements allow you to run a minimal installation of RHEL,
+but if you want to create an environment that enables you to perform all exercices
+you want make sure to meet the following minimal requirements:
+
+64-bit platform support
+2 GiB of RAM
+20-GiB hard disk
+A DVD drive, either virtual or physical
+A network card
+
+
+NOTE : Some resources on the internet will mention different minimal requirements.
+This is not big deal for the RHCSA exam
