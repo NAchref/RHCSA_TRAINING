@@ -88,3 +88,8 @@ a. /boot
 b. /var
 c. /
 d. swap
+
+
+
+
+
