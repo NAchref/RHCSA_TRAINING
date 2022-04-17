@@ -12,3 +12,9 @@ not use Fedora to prepare for the RCHSA exam
 Fedora is also used by Red Hat as a testing ground for new features that might or might not be included in future 
 RHEL releases. If you were to choose Fedora, you would be working with items 
 that are not available in RHEL, which means that you would have to do things differently on the exam. So, don’t use it
+
+
+An important difference between RHEL and the other distributions is the access to repositories. A repository
+is the instalation source used for installing software. if you are using free software such as Centos, correct repositories are
+automatically set up, and no further action required. if you are using Red Hat Enterprise Linux with a
+subscription, you ll need to use the Subscription Manager software to get access to repositories.
