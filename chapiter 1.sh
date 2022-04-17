@@ -25,3 +25,14 @@ subscription, you ll need to use the Subscription Manager software to get access
 TIP ! If you are installing Red Hat from the RHEL 8 installation disc, but you do not register it, you
 will not have access to a repository, which is why you need to know how to set up repository access
 manually.
+
+
+Setup Requirement :
+
+RHEL 8 can be installed on physical hardware and on virtual hardware. For the availability of specific
+features, it does not really matter which type of hardware is used, as long as the following conditions
+are met:
+
+1 GiB of RAM
+A 10-GiB hard disk
+A network card
