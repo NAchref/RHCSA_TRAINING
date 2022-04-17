@@ -18,3 +18,10 @@ An important difference between RHEL and the other distributions is the access t
 is the instalation source used for installing software. if you are using free software such as Centos, correct repositories are
 automatically set up, and no further action required. if you are using Red Hat Enterprise Linux with a
 subscription, you ll need to use the Subscription Manager software to get access to repositories.
+
+
+
+
+TIP ! If you are installing Red Hat from the RHEL 8 installation disc, but you do not register it, you
+will not have access to a repository, which is why you need to know how to set up repository access
+manually.
